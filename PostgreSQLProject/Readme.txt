@@ -1,5 +1,8 @@
 This project contains Project.java file in src folder
-The link to the code can be found here: https://github.com/suryadeepnallana/CS-623/blob/main/PostgreSQLProject/src/Project.java
+The link to the code can be found here: 
+https://github.com/suryadeepnallana/CS-623/blob/main/PostgreSQLProject/src/Project.java
+
+All the tables were created and inserted preliminary data beforehand using pgAdmin4.
 
 In this project, the given tasks are carried out using Java and PostgreSQL
 A JDBC connection is created to access the tables using DriveManager.
